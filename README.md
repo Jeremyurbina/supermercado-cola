@@ -43,5 +43,5 @@ se abrirá automáticamente en:
 - [Jeremy Urbina](https://www.github.com/Jeremyurbina)
 - [Anderson Omaña]()
 - [Jesus Cisneros]()
-- [Guillermo del Aguila]([Guillermo-Del-Aguila](https://github.com/Guillermo-Del-Aguila))
+- [Guillermo del Aguila](https://github.com/Guillermo-Del-Aguila)
 - [Cesar Bruzual](https://github.com/Cesar00z)
