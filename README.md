@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## ⚡ Ejecución del proyecto
 Ejecutar el servidor 🚀 :
 ```bash
-stremlit run app.py
+streamlit run app.py
 ```
 se abrirá automáticamente en: 
 ```bash
